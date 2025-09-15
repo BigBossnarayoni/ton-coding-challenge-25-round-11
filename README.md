@@ -15,8 +15,8 @@ https://t.me/toneachat
 课件地址：https://ton-org.notion.site/TG-Bot-API-for-Gifts-25a5274bd2cf80d7a642c7cf28a00d34
 
 领奖信息收集：
-1. 你的 Telegram 用户名 = UQBGvuZjAitfIxWD4UTPfNdJekRZiSD7u2mbZhYMARsu9F29
-2. 你的主网 TON 钱包地址 = @Vk5035
+1. 你的 Telegram 用户名 = @Vk5035
+2. 你的主网 TON 钱包地址 = UQBGvuZjAitfIxWD4UTPfNdJekRZiSD7u2mbZhYMARsu9F29
 
 
 ## 任务 1：可升级礼物监听 bot 
